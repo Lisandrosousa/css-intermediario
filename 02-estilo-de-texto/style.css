@@ -1,0 +1,91 @@
+/* -----------Text align----------------- */
+.alinhado-esquerda {
+    text-align: left;
+}
+
+.alinhado-esquerda{
+    text-align: right;
+}
+
+.alinhado-centro{
+    text-align: center;
+}
+
+
+
+
+
+.alinhado-justificado {
+    text-align: justify;
+}
+
+
+/* ---------------------Text transform------------------------- */
+
+
+.maiusculo {
+    text-transform: uppercase;
+}
+
+.minusculo {
+    text-transform: lowercase;
+}
+
+.capitalizado {
+    text-transform: capitalize;
+}
+
+
+
+/* -------------text decoration------------------ */
+
+.sublinhado{
+    text-decoration: underline;
+}
+
+.linha-sobreposta{
+    text-decoration: line-through;
+}
+
+.sem-text-decoration{
+    text-decoration: none;
+}
+
+
+/* --------------altuara entre linhas----------------- */
+
+.altura-entre-linhas{
+    line-height: 40px;
+}
+
+
+/* --------------------Sombra de Texto------------------- */
+
+.sombra-de-texto{
+    text-shadow: 5px 2px 1px #FF00aa;
+}
+
+
+/* -------------geral-------------- */
+
+
+
+
+.fundo-alinhamento {
+    padding: 20px;
+    background-color:#d1c4e9 ;
+}
+
+.fundo-transform {
+    padding: 20px;
+    background-color: #c8e6c9;
+}
+
+.fundo {
+    padding:20px ;
+    background-color:#ccc ;
+}
+
+html {
+    font-size: 24px;
+}
