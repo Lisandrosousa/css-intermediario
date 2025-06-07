@@ -1,0 +1,9 @@
+@font-face {
+    font-family:'milky' ;
+    src: url(./fontes/Milky\ Week.otf),
+    url(./fontes/Milky\ Week.ttf)     
+}
+
+h1{
+    font-family:'milky';
+}
