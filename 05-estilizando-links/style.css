@@ -1,0 +1,11 @@
+a{
+    cursor: cell;
+}
+
+a:visited{
+    color: aqua;
+}
+
+a:hover{
+    color: red;
+}
